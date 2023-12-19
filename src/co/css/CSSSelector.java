@@ -48,7 +48,7 @@ public class CSSSelector {
             WebElement productElement = driver.findElement(By.xpath("/html/body/div[4]/div[4]/div[2]/div[1]/div[2]/ul/li[6]/div/div[1]/div/a/div/img"));
             productElement.click();
 
-            // Additional actions can be added here
+          
 
         } catch (Exception e) {
             e.printStackTrace();
